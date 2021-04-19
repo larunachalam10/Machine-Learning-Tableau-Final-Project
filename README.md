@@ -1,9 +1,3 @@
-## Final Portfolio Project
-
-Tableau Slide Deck 1: https://public.tableau.com/profile/shadia.duery#!/vizhome/Final-Project_twbx_16159324170940/Story1?publish=yes
-
-Tableau Slide Deck 2: https://public.tableau.com/profile/shadia.duery#!/vizhome/Camping_16160189818690/Story?publish=yes
-
 # Campground Characteristic Analysis of Campgrounds in CA, OR, and WA
 
 ### Collaborators: 
